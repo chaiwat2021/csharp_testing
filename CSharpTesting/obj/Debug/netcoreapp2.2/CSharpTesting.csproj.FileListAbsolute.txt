@@ -1,0 +1,11 @@
+H:\workspace\CSharpTesting\CSharpTesting\bin\Debug\netcoreapp2.2\CSharpTesting.deps.json
+H:\workspace\CSharpTesting\CSharpTesting\bin\Debug\netcoreapp2.2\CSharpTesting.runtimeconfig.json
+H:\workspace\CSharpTesting\CSharpTesting\bin\Debug\netcoreapp2.2\CSharpTesting.runtimeconfig.dev.json
+H:\workspace\CSharpTesting\CSharpTesting\bin\Debug\netcoreapp2.2\CSharpTesting.dll
+H:\workspace\CSharpTesting\CSharpTesting\bin\Debug\netcoreapp2.2\CSharpTesting.pdb
+H:\workspace\CSharpTesting\CSharpTesting\obj\Debug\netcoreapp2.2\CSharpTesting.csprojAssemblyReference.cache
+H:\workspace\CSharpTesting\CSharpTesting\obj\Debug\netcoreapp2.2\CSharpTesting.csproj.CoreCompileInputs.cache
+H:\workspace\CSharpTesting\CSharpTesting\obj\Debug\netcoreapp2.2\CSharpTesting.AssemblyInfoInputs.cache
+H:\workspace\CSharpTesting\CSharpTesting\obj\Debug\netcoreapp2.2\CSharpTesting.AssemblyInfo.cs
+H:\workspace\CSharpTesting\CSharpTesting\obj\Debug\netcoreapp2.2\CSharpTesting.dll
+H:\workspace\CSharpTesting\CSharpTesting\obj\Debug\netcoreapp2.2\CSharpTesting.pdb
